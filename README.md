@@ -29,3 +29,13 @@ Enjoy using AutoGen!
 ```
 Please don't hesitate to rise an issue or request if you have any concerns regarding AutoGen tool, our development team would be glad to assist.
 ```
+
+## Let's Continue with AutoGen
+
+Remember, AutoGen is an automated program generator that deals with any program containing large amounts of repetitive code. AutoGen works using two inputs, the template file (a file containing AutoGen-specific markup and text), and the definitions file (a file containing the variances that will be integrated into the template file).
+
+AutoGen takes the process further by interpreting the AutoGen-specific markup to control the outcome of the output files, thus identifying variances to be replaced, whether as simple text replacements or as code snippets depending on the requirements of your files output.
+
+AutoGen is incredibly efficient for maintaining and creating large volumes of code. It keeps the code structure simpler and readily readable by manipulating the definitions file.
+
+Do not hesitate to reach out if you have further queries or need more explanation about how AutoGen operates. Our development team is eager to help make your coding environment more efficient and user-friendly.
